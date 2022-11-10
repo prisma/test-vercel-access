@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+          "source": "/foo/:any*",
+          "destination": "https://proj2-phi.vercel.app/:any*"
+        }
+    ]
+}
